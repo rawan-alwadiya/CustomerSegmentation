@@ -76,9 +76,9 @@ Develop a robust and interpretable pipeline for **credit card customer segmentat
 
 ## **Project Links**
 
-- 🔗 [Live Streamlit App](https://customersegmentation-xt7vbctp6slquksrnvdk9t.streamlit.app/)  
-- 🔗 [Kaggle Notebook](https://www.kaggle.com/code/rawanalwadeya/customersegmentation-end-to-end-ml-pipeline)  
-- 🔗 [Dataset](https://www.kaggle.com/datasets/mahnazarjmand/customer-segmentation)  
+- [Live Streamlit App](https://customersegmentation-xt7vbctp6slquksrnvdk9t.streamlit.app/)  
+- [Kaggle Notebook](https://www.kaggle.com/code/rawanalwadeya/customersegmentation-end-to-end-ml-pipeline)  
+- [Dataset](https://www.kaggle.com/datasets/mahnazarjmand/customer-segmentation)  
 
 ---
 
