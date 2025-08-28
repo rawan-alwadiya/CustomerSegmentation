@@ -1,4 +1,4 @@
-## **CustomerSegmentation: End-to-End ML Pipeline**
+# **CustomerSegmentation: End-to-End ML Pipeline**
 
 **CustomerSegmentation** is an end-to-end machine learning project designed to segment credit card customers into meaningful groups based on their financial behavior.  
 The workflow includes **exploratory data analysis (EDA)**, **preprocessing** (handling missing values, scaling), **dimensionality reduction (PCA)**, **clustering (K-Means)**, and finally **classification using Support Vector Machine (Polynomial Kernel)**.  
